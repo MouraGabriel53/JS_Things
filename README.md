@@ -2,7 +2,7 @@
 
 Welcome to my **Basic JavaScript** repository! This project documents my learning journey in this language. Here, you'll find simple examples, exercises, and basic concepts for beginners.
 
-## Repository Goals
+## 📌 Repository Goals
 
 The goals of this repository are:
 
@@ -10,7 +10,7 @@ The goals of this repository are:
 - Share progress and learning challenges.
 - Build a solid foundation for future projects.
 
-## Content
+## 📁 Content
 
 - **01-Introduction**: First steps with JavaScript.
 - **02-Variables and Data Types**: Working with `var`, `let`, `const`, strings, numbers, etc.
